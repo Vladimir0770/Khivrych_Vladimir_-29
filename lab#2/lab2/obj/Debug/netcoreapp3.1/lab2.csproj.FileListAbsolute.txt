@@ -1,0 +1,14 @@
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
