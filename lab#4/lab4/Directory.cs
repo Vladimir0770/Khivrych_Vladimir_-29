@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -62,5 +62,7 @@ namespace lab4
 
             return MP3list.Count;
         }
+
+        public int getAmountOfFiles() { return data.Count; }
     }
 }
