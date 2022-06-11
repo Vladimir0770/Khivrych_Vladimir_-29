@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace lab4
@@ -9,7 +9,8 @@ namespace lab4
         {
             List<Disk> data = new List<Disk>();
             data.Add(new Archive(10));
-            data.Add(new File(20));
+            File file = new File(20);
+            data.Add(file);
             data.Add(new MP3(300, "Middle of the night"));
             data.Add(new MP3(500, "Ride it"));
             data.Add(new MP3(400, "Rolling in the deep"));
@@ -32,6 +33,12 @@ namespace lab4
             Console.WriteLine("Size of archive file -> " + archive.getSize());
             File unzippedArchive = archive.unzipArchive();
             Console.WriteLine("Size of unzipped archive file -> " + unzippedArchive.getSize());
+
+            Vinchester vinchester = new Vinchester(data);
+
+            vinchester.addDisk(dir);
+            vinchester.formatDisk(file);
+            vinchester.getAmountOfFilesInEveryDisk();
         }
     }
 }
