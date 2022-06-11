@@ -1,4 +1,4 @@
-﻿using lab2._1.soldiers;
+using lab2._1.soldiers;
 using lab2._1.weapons;
 using System;
 using System.Collections.Generic;
@@ -27,50 +27,20 @@ namespace lab2._1
             squad2.Add(new Ensign("Иван Будько", "полк #6", "Зенитчик", new Pistol()));
             squad2.Add(new Ensign("Михаил Литвиносов", "полк #6", "Зенитчик", new Pistol()));
 
+
+            Army army1 = new Army(squad1);
+            Army army2 = new Army(squad2);
+
             // getting soldiers from first squad with the gun -> Pistol
-            printSoldiersWithTheSameGun(squad1, new Pistol());
+            army1.printSoldiersWithTheSameGun(new Pistol());
 
             Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
             // getting soldiers from second squad with the gun -> MachineGun
-            printSoldiersWithTheSameGun(squad2, new MachineGun());
+            army2.printSoldiersWithTheSameGun(new MachineGun());
 
-            squad1 = getSortedSquadBySpeciality(squad1);
+            army1.getSortedSquadBySpeciality();
 
-            foreach (Soldier soldier in squad1)
-            {
-                Console.WriteLine(soldier);
-            }
-        }
-        public static void printSoldiersWithTheSameGun(List<Soldier> squad, Weapon weapon)
-        {
-            Console.WriteLine("Soldiers from squad with the gun -> " + weapon.getTypeOfWeapon());
-            foreach (Soldier soldier in squad)
-                if (soldier.getWeapon().getTypeOfWeapon().Equals(weapon.getTypeOfWeapon())) Console.WriteLine(soldier.getName());
-        }
-
-        // Сортировка происходит по военной специальности. Например: Вначале будет Артеллирист, а потом уже Десантник
-        public static List<Soldier> getSortedSquadBySpeciality(List<Soldier> squad)
-        {
-            List<Soldier> sortedSquad = new List<Soldier>();
-
-            SortedSet<string> specialities = new SortedSet<string>();
-
-            foreach (Soldier soldier in squad)
-            {
-                specialities.Add(soldier.getSpeciality());
-            }
-
-            foreach (string specility in specialities)
-            {
-                foreach (Soldier soldier in squad)
-                {
-                    if (soldier.getSpeciality().Equals(specility))
-                    {
-                        sortedSquad.Add(soldier);
-                    }
-                }
-            }
-            return sortedSquad;
+            army1.printSoldiers();
         }
     }
 }
