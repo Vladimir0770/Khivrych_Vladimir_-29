@@ -1,0 +1,16 @@
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\lab3.2.exe
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\lab3.2.deps.json
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\lab3.2.runtimeconfig.json
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\lab3.2.runtimeconfig.dev.json
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\lab3.2.dll
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\lab3.2.pdb
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.csproj.AssemblyReference.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.AssemblyInfoInputs.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.AssemblyInfo.cs
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.csproj.CoreCompileInputs.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.dll
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.pdb
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.genruntimeconfig.cache
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Vladimir\university\2 семестр\Algoritms and Data Structures\labs\lab#3\lab3.2\lab3.2\obj\Debug\netcoreapp3.1\lab3.2.csproj.CopyComplete
